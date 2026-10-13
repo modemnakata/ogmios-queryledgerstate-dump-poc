@@ -1,0 +1,13 @@
+# Lab artifacts (large, reproducible via lab/setup.sh)
+lab/preview/
+lab/data/
+lab/evidence/
+
+# PoC output
+poc_out/
+*.bin
+*.cbor
+
+__pycache__/
+*.py[cod]
+.venv/
